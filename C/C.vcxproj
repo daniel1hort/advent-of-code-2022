@@ -133,6 +133,7 @@
     <ClCompile Include="day4.c" />
     <ClCompile Include="day5.c" />
     <ClCompile Include="day6.c" />
+    <ClCompile Include="day7.c" />
   </ItemGroup>
   <ItemGroup>
     <None Include="day1.in" />
@@ -141,6 +142,7 @@
     <None Include="day4.in" />
     <None Include="day5.in" />
     <None Include="day6.in" />
+    <None Include="day7.in" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

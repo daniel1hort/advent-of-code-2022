@@ -33,6 +33,9 @@
     <ClCompile Include="day6.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="day7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="day1.in">
@@ -51,6 +54,9 @@
       <Filter>Resource Files</Filter>
     </None>
     <None Include="day6.in">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="day7.in">
       <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>

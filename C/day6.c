@@ -59,7 +59,7 @@ static void second(void) {
 	fclose(in);
 }
 
-int main(void) {
+static int main(void) {
 	first();
 	second();
 	return 0;
