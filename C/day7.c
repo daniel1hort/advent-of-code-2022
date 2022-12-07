@@ -12,7 +12,7 @@
 typedef enum {NODE_FILE, NODE_DIRECTOR} node_type_t;
 typedef uint16_t relative_ptr_t;
 typedef struct {
-	relative_ptr_t v[500]; // not proud of this
+	relative_ptr_t v[20];
 	size_t count;
 } list_t;
 typedef struct {
