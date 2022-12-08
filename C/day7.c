@@ -153,7 +153,7 @@ static void second(void) {
 	printf_s("%llu\n", folder_to_delete_size);
 }
 
-int main(void) {
+static int main(void) {
 	setup();
 	first();
 	second();
